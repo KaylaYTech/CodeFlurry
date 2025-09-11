@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="2">
   <diagram name="Page-1" id="8R3-ouWrvR0PYowqYxrW">
-    <mxGraphModel dx="-4430" dy="2340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2850" dy="4267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jmSIG3X0HEFknxVYifZG-99" value="Layer 2 Switch A 0f:48:fc:f2:96:0b" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="7470" y="1465" width="210" height="40" as="geometry" />
+          <mxGeometry x="7120" y="1465" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jmSIG3X0HEFknxVYifZG-100" value="&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 11px; line-height: normal; font-family: Arial;&quot; class=&quot;p1&quot;&gt;Network A&lt;/p&gt;&lt;/div&gt;Router A WAN 9c:96:62:0d:85:6a 172.16.0.5 pfSense 2.7.2&lt;br&gt;Router A LAN 25:b1:13:26:9c:a4 192.168.15.1/20" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7000" y="1240" width="370" height="50" as="geometry" />
@@ -281,7 +281,7 @@
           <mxGeometry x="8450" y="1475" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YeXkgbG_geoZ1zjIWWEg-18" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Layer 2 Switch B f0:e4:d0:ab:71:82 N/A&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8125" y="1480" width="10" height="40" as="geometry" />
+          <mxGeometry x="8765" y="1515" width="15" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YeXkgbG_geoZ1zjIWWEg-19" value="Gateway Router WAN bb:0d:95:37:50:c9 128.205.224.146 pfSense 2.7.2&#xa;Gateway Router LAN d3:84:23:a5:b2:e1 172.16.0.1/24" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8260" y="580" width="420" height="50" as="geometry" />
@@ -316,7 +316,7 @@
         <mxCell id="YeXkgbG_geoZ1zjIWWEg-27" value="pfSense 2.7.3&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7992" y="-630" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YeXkgbG_geoZ1zjIWWEg-28" value="&lt;b&gt;Gretzky&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Private&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;IP&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;:&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; 192&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot; data-end=&quot;383&quot; data-start=&quot;364&quot;&gt;.168.0.1&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YeXkgbG_geoZ1zjIWWEg-28" value="&lt;b&gt;Gretzky&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Private&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;IP&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;:&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; 192&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot; data-end=&quot;383&quot; data-start=&quot;364&quot;&gt;.168.254.254&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8372" y="-630" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YeXkgbG_geoZ1zjIWWEg-29" value="&lt;b&gt;UbuntuClient (Ubuntu 25.4)&lt;/b&gt;&lt;div&gt;OS: (&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ubuntu&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;OS)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;IP:&amp;nbsp;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;192.168.15.150&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Subnet&lt;/font&gt;: 225.225.240.0&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Gateway&lt;/font&gt;: 192.168.0.1&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;DNS&lt;/font&gt;: 8.8.8.8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -442,7 +442,7 @@
         <mxCell id="YeXkgbG_geoZ1zjIWWEg-57" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
           <mxGeometry x="8220" y="-850" width="105" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="YeXkgbG_geoZ1zjIWWEg-58" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;Interface67 Subnet 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YeXkgbG_geoZ1zjIWWEg-58" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;External Interface&amp;nbsp;Subnet 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8035" y="-800" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YeXkgbG_geoZ1zjIWWEg-59" value="&lt;b&gt;ExternalInterface&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Public&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;IP&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;:&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;38.95.252.31&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -495,6 +495,18 @@
         </mxCell>
         <mxCell id="YeXkgbG_geoZ1zjIWWEg-72" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;pfSense 2.7.2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7425" y="1175" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YeXkgbG_geoZ1zjIWWEg-73" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;Layer 2 Switch A&lt;/span&gt;&amp;nbsp;Subnet 1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7457" y="1446" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YeXkgbG_geoZ1zjIWWEg-79" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Layer 2 Switch B Subnet 2&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7736" y="2020" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YeXkgbG_geoZ1zjIWWEg-86" value="&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; text-align: left;&quot;&gt;Layer 2 Switch B Subnet 2&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8102" y="1460" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YeXkgbG_geoZ1zjIWWEg-88" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;Indicate elements &lt;i&gt;for each&lt;/i&gt; (3) &lt;span class=&quot;s1&quot;&gt;pfSenseRouter&lt;/span&gt; network interface which&lt;br&gt;govern your &lt;i&gt;team infrastructure subnetworks&lt;/i&gt; indicated in &lt;span class=&quot;s1&quot;&gt;monotype&lt;/span&gt; font:&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8790" y="-1130" width="550" height="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
